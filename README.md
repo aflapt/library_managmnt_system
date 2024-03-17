@@ -51,11 +51,15 @@ records of books returned by customers contain return ID,customer id,book name,r
 
 # additional queries
 1:list the book name that have not been issued by any customer
+
 2:examine the publisher with the highest number of books in library
+
 3:identify the branches where the average salary of employees is above 20000
+
 4:#create a before delete trigger if we try to delete employee details whose salary is >20000 in the employee table.
 
 5:find total number of customer in customers table
+
 6:find out total revenue generated from book rentals
 
 
