@@ -27,15 +27,25 @@ records of books issued to customers including issue ID,customer id,book name, a
 records of books returned by customers contain return ID,customer id,book name,return date
 
 # major queries:
+
 1:Retrieve book title, category, and rental price of available books.
+
 2:list employee names and salaries in descending order of salary.
+
 3:Retrieve book titles and corresponding customers who have issued those books.
+
 4:Display total count of books in each category.
+
 5:Retrieve employee names and positions for employees with salaries below Rs.20000.
+
 6:List customer names who registered before 2022-01-01 and have not issued any books yet.
+
 7:Display branch numbers and total count of employees in each branch.
+
 8:Display names of customers who issued books in June 2023.
+
 9:Retrieve book titles containing "history".
+
 10:Retrieve branch numbers along with count of employees for branches having more than 5 employees.
 
 
